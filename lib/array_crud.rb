@@ -12,7 +12,7 @@ def add_element_to_end_of_array(array, element)
  
   create_an_array << "jesus"
   
-  #puts create_an_array.inspect
+  puts create_an_array.inspect
   
 end
 
